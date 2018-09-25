@@ -11,6 +11,12 @@ php 7.1
 composer install
 ```
 
+## Running Weather Station
+
+```bash
+./bin/weather_station
+```
+
 ## Running tests
 
 ```bash
